@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Antique_Bronze">#665D1E</color>
+    <color name="Wood">#966F33</color>
+    <color name="Bronze">#CD7F32</color>
+    <color name="Brass">#B5A642</color>
+    <color name="Cinnamon">#C58917</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
